@@ -7,7 +7,7 @@ Vehicle Preview Image for NC_Garage
 
 ในอนาคตทางฝั่งผมจะทยอยอัพเดตไฟล์รูปของรถจากร้านต่าง ๆ ให้เรื่อย ๆ นะครับ
 
-เช่นรถจาก nm, rmod, mp.pos, ageny custom, trump shop
+เช่นรถจาก nm, rmod และอื่น ๆ
 
 โดยจะอิงชื่อจาก handling name ที่ได้มาเลย
 
@@ -21,5 +21,5 @@ Vehicle Preview Image for NC_Garage
 ## Authors
 
 - NC-Developer
-- Technity Team
+- Heaven Team
 
